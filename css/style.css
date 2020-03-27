@@ -1,0 +1,141 @@
+
+
+.wrapper{
+	overflow: hidden;
+	width:auto;
+}
+.head{
+	background-color: #64CCFC;
+	width: auto;
+	border:3px solid #3434CC;
+	text-align: center;
+	padding: 4px 0 4px;
+	margin: 0 0;
+	font-weight: bold;
+	
+}
+.path{
+	background-color: #FCCCFC;
+	width: auto;
+	border:3px solid #FC34CC;
+	text-align: center;
+	padding: 4px 0 28px;
+	margin: 0 0;
+	font-weight: bold;
+
+}
+.doc{
+	background-color: #FCFCCC;
+	width: auto;
+	border:3px solid #FCCC04;
+	text-align: center;
+	padding: 4px 0 4px;
+	margin: 2px 0px;
+	font-weight: bold;
+
+}
+.warpper1{
+	 min-width:100%;
+ 	 min-height:400px;
+ 	 background-color:#FCCCCC;
+ 	 display: block;
+ 	 border:3px solid #CC0404;
+     overflow:hidden;
+     
+
+
+}
+
+.a{
+	width:20%;
+ 	height:100%;
+ 	background-color:#FCCCCC;
+ 	border:3px solid #CC0404;
+ 	text-align: center;
+	padding: 20% 0 20%;
+	
+	margin-top: 1px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	font-weight: bold;
+ 	float:left;
+ 
+
+
+}
+
+.b{
+	height: 40px;
+	width: auto;
+	background-color: #CCCCFC;
+	border: 3px solid #9C34FC;
+	text-align: center;
+	padding: 4px 0 28px;
+	margin-top: -2px;
+	margin-bottom: 0px;
+	margin-right: 273px;
+	margin-left: 273px;
+	font-weight: bold;
+}
+
+.c{
+	height: 474px;
+	width: auto;
+	background-color: #B4B4B4;
+	border: 3px solid #040404;
+	text-align: center;
+	padding: 0 0;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 273px;
+	margin-left: 273px;
+	font-weight: bold;
+	
+
+}
+
+.d{
+	width:20%;
+ 	height:100%;
+ 	background-color:#CCFC9C;
+ 	border:3px solid #049C04;
+ 	text-align: center;
+	padding: 20% 0 20%;
+	margin-top: 1px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	font-weight: bold;
+ 	float:right;
+ 	margin-top:-557px;
+ 	 
+ 	
+
+}
+.wrapper2{
+	overflow: hidden;
+	width:100%;
+
+}
+.bottom{
+	background-color: #CCFCFC;
+	width: auto;
+	border:3px solid #34CCCC;
+	text-align: center;
+	padding: 2px 0 2px;
+	margin-top: 1px;
+	font-weight: bold;
+
+}
+.footer{
+	background-color: #FCCC9C;
+	width:100%;
+	border:3px solid #FC6404;
+	text-align: center;
+	padding: 4px 0 4px;
+	margin: 0 0;
+	font-weight: bold;
+
+
+}
